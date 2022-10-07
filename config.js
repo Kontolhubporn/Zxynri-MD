@@ -10,8 +10,8 @@ global.mods = ['6285770356017'] //ganti pakai nomormu biar bot berfungsi
 global.prems = ['6285770356017'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.nameowner = 'ᴹᴿ᭄ 𝙺𝚢𝚢BotzOffcོ_1ঔৣ꧂'
+global.numberowner = '6285770356017' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -50,7 +50,7 @@ global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙺𝚢𝚢_ofcོ1꧅'
 global.wm3 = 'ᯤ 𝙺𝚢𝚢 Offcial'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/e12b971dabb4e9979bd7e.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
